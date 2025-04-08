@@ -11,3 +11,7 @@ MS Excel
 Power Query Editor for transform and load
 ## Dataset used
 "Kevin Cookies Sales Analysis"
+## Key Insights
+The Highest profit noticed in Sep 2018.
+Chocolate Chips product has high profit compared to all products.
+Average Highest sales happening in October month in all years.
